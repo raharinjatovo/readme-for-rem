@@ -27,7 +27,7 @@ You have to download:
 
  - [Another Redis Desktop manager](https://github.com/qishibo/AnotherRedisDesktopManager/releases)
 
- - [Ubuntu image ](https://releases.ubuntu.com/20.04.4/ubuntu-20.04.4-live-server-amd64.iso)
+ - [Ubuntu image ](https://mega.nz/file/QngyDChC#NNzsQjP7l0xhNqTCEQwUdlyYURr8Vt7bWE6cSrZk1kc)
 
 ## Instalation of Oracle VM
 
