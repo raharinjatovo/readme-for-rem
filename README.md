@@ -55,10 +55,11 @@ You have to download:
 ![App Screenshot](https://i.ibb.co/9GZxGsR/Capture-d-cran-2022-06-15-162609.png)
 - you have to make sure tha virtualisation is enable in your pc by checking it in task manager:
 ![App Screenshot](https://i.stack.imgur.com/GkDPe.jpg)
+- if your virtualisation is disabled then reboot waiting and go to bios to enable it
+- if youre in lenovo this is an instruction to enable it:
+ [Instriction of how enable virtualization for lenovo thinkpad ](https://pcsupport.lenovo.com/il/en/products/laptops-and-netbooks/thinkpad-p-series-laptops/thinkpad-p50/solutions/ht500006)
 
-
-- Create a new virtual machine and configure it for the image file by folowing this link
-
+- Create a new virtual machine and configure it for the image file by folowing this link:
  [Instriction of how to install linux on virtual box ](https://brb.nci.nih.gov/seqtools/installUbuntu.html)
 
 
