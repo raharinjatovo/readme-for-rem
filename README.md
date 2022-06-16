@@ -100,9 +100,10 @@ git clone ssh://git@lab.digitaly.io:222/Infolocale/rdv_en_mairie.git .
   GET /api/items
 ```
 
-| Parameter | Type     | Description                |
-| :-------- | :------- | :------------------------- |
-| `api_key` | `string` | **Required**. Your API key |
+| Parameter | Type     | 
+| :-------- | :------- | 
+| `api_key` | `string` | 
+
 
 #### Get item
 
